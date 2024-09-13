@@ -1,0 +1,286 @@
+@import url(https://db.onlinewebfonts.com/c/8ffe55aed043353e544d40e9876e9048?family=Bely+Display);  
+
+@import url(https://db.onlinewebfonts.com/c/bf9f5d50c1b928ff21436517a1a95ad9?family=Proxima+Nova);
+
+@import url(https://db.onlinewebfonts.com/c/cced4e510c3db5d90f32c0732eddaf8a?family=Futura);
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+.navbar {
+    display: flex;
+    width: 1328px;
+    height: 23px;
+    top: 40px;
+    left: 56px;
+    gap: 10px;
+    margin: 50px;
+}
+
+.kake {
+  text-decoration: none;
+  color: #71A894;
+  transform: translate(1300px,70px);
+  width: 150px;
+}
+
+.kake a {
+    text-decoration: none;
+    color: #71A894;
+    width: 1200px;
+}
+
+.navbar a {
+text-decoration: none;
+width: 200px;
+height: 24px;
+top: 10px;
+left: 678px; 
+transform: translate(450px);
+color: black ;
+font-family: "Proxima Nova";
+}
+
+.icons h1{
+    font-family: "Bely Display";
+    width: 600px;
+    height: 50px;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 80px;
+    text-indent: 50px;
+    transform: translateY(150px);
+}
+
+
+.icons img {
+    transform: translate(600px);
+}
+
+.icons p {
+    width: 600px;
+    height: 20px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: -2%;
+    transform: translate(50px,200px );
+    font-family: "Proxima Nova";
+}
+
+.icons button {
+    width: 219px;
+    height: 64px;
+    border-radius: 8px;
+    top: 562px;
+    left: 56px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    transform: translate(50px,450px);
+    color: white;
+    background-color: #71A894;
+    border: solid #71A894;
+}
+
+.chair h1{
+    font-family: "Bely Display";
+width: 850px;
+height: 64px;
+font-weight: 400;
+font-size: 40px;
+line-height: 26px;
+letter-spacing: -2%;
+align-items: center ;
+transform: translate(450px);
+}
+
+.chair p {
+    width: 850px;
+    height: 25px;
+    font-weight: 400;
+    font-size:15px;
+    line-height: 26px;
+    letter-spacing: -2%;
+    transform: translate(400px);
+    align-items: center;
+    font-family: "Proxima Nova";
+}
+
+.chair img {
+    transform: translate(50px);
+}
+
+.cup img {
+    margin: 50px;
+    transform: translateY(400px);
+}
+
+.door h1 {
+   transform: translate(50px);
+   width: 644px;
+   height: 50px;
+font-weight: 400;
+font-size: 50px;
+font-family: "Bely Display";
+}
+
+.door img {
+    transform: translate(900px,300px);
+}
+
+.door p {
+    width: 900px;
+    transform: translate(50px,50px);
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    font-family: "Proxima Nova";
+}
+
+.slash h1 {
+width: 644px;
+height: 40px;
+font-weight: 400;
+font-size: 40px;
+line-height: 56px;
+font-family: "Bely Display";
+transform: translate(800px,50px);
+}
+
+.slash p {
+    width: 644px;
+    height: 20px;
+    font-weight: 400;
+    font-size: 15px;
+    transform: translate(800px,80px);
+    font-family: "Proxima Nova";
+}
+
+.slash img {
+    transform: translate(800px);
+}
+
+.kor img {
+    transform: translate(50px,350px);  
+}
+
+.kilu h1{
+width: 644px;
+height: 50px;
+top: 256px;
+font-weight: 400;
+font-size: 40px;
+line-height: 26px;
+font-family: "Bely Display";
+transform: translate(50px);
+}
+
+.kilu img {
+    transform: translate(700px,300px);
+}
+
+.kilu p{
+transform: translate(50px);
+width: 644px;
+height: 20px;
+font-family: "Proxima Nova";
+}
+
+.links {
+    transform: translate(50px,450px);
+    width: 500px;
+}
+
+.kipt img{
+transform: translate(10px,400px);
+}
+
+.kipt h1 {
+    transform: translate(400px,300px);
+    width: 644px;
+    height: 40px;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 56px;
+    font-family: "Bely Display";    
+}
+
+.kipt {
+    flex: start;
+}
+
+.kipt p {
+    transform: translate(300px,350px);
+    width: 644px;
+    height: 15px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 56px;
+    font-family: "Proxima Nova";
+}
+
+.kipt button {
+    width: 100px;
+    height: 50px;
+    border: 2px solid #303031;
+    border-radius: 12px;
+    background-color: #303031;
+    color: white;
+    transform: translate(600px,500px);
+}
+
+.hon img {
+    transform: translate(800px,800px);
+}
+
+.hon h1 {
+    transform: translate(50px,500px);
+    width: 644px;
+    height: 40px;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 64px;
+    font-family: "Bely Display"; 
+}
+
+.hon p {
+    width: 644px;
+    height: 20px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 60px;
+    transform: translate(50px,550px);
+}
+
+.hon input {
+    width: 100px;
+  height: 50px;
+  border: 2px solid #71A894;
+  color: #fff;
+  background-color: #71A894;
+  border-radius: 10px;
+  transform: translate(50px,600px);
+  outline: none;
+}
+
+.kora {
+    display: flex;
+    gap: 50px;
+    transform: translateY(800px);
+}
+
+.kora a {
+    transform: translate(800px);
+    text-decoration: none;
+    color: black;
+    font-family: "Proxima Nova";
+
+}
+
+.kora p {
+    font-family: "Futura";
+  transform: translate(50px);
+}
